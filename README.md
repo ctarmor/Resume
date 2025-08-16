@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td width="33%" align="start" valign="middle">
-      <img src="./apps/assets/logo.png" alt="AgsisScanner Logo"   />
+      <img src="./assets/logo.png" alt="AgsisScanner Logo"   />
     </td>
     <td align="left" valign="middle">
       <h1>🚀 Carlos Alvarez</h1>
