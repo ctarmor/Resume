@@ -57,6 +57,27 @@
   </ul>
 </details>
 
+<details>
+  <summary><strong>Remote Consulting</strong> <em>| Senior Software Engineer (Remote)</em> <br> <small>March 2020 – March 2021</small></summary>
+  <ul>
+    <li>Developed a financial quote delivery application targeting Apple Watch (IOS) and Galaxy Watch.</li>
+    <li>Technologies: React.js, HTML, AWS DynamoDB, AWS Lambda.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>JPMorgan Chase</strong> <em>| Senior Software Engineer (Remote)</em> <br> <small>October 2015 – March 2020</small></summary>
+  <ul>
+    <li>Lead UI development for Chime, Chime Notification Center and ChimeWeb.</li>
+    <li>Lead the architecture/development direction for the UI desktop products.</li>
+    <li>Technologies: React.js, c#, WPF, TypeScript, Cypress.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>Continue at my <a href="https://linkedin.com/in/jstechy"><strong>LinkedIn profile</strong></a>.</strong> </summary>
+</details>
+
 ---
 
 <h3>📫 Contact</h3>
